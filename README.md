@@ -1,2 +1,2 @@
 # SecureChatCTF
-Get the flag! Get the bounty 
+Get the flag! Get the bounty ...
